@@ -17,14 +17,12 @@ float greenLedValue = 0;
 float blueLedValue = 0;
 
 // led output interval goes from 0 to 255
-// analog input interval goes from 0 to 1023
 const float maxLedValue = 255.0;
+// analog input interval goes from 0 to 1023
 const float maxAnalogValue = 1023.0;
 
 
 void setup() {
-  Serial.begin(9600);
-
   pinMode(redAnalogInputPin, INPUT);
   pinMode(greenAnalogInputPin, INPUT);
   pinMode(blueAnalogInputPin, INPUT);
@@ -32,6 +30,8 @@ void setup() {
   pinMode(redLedPin, OUTPUT);
   pinMode(greenLedPin, OUTPUT);
   pinMode(blueLedPin, OUTPUT);
+
+  Serial.begin(9600);
 }
 
 void loop() {
