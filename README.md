@@ -14,4 +14,10 @@ All laboratory and practical work, mini-homework exercices will be placed in thi
 ### Homeworks
 Main weekly homeworks and future projects, each having their own sub-folder with a detailed description about it. Description includes the requirements, a picture of the circuit setup, a YouTube link to a video showcasing its functionality in 4K (living up to my name) and some details about the solution.
 
-Last update: 24th Oct, 2022 - refactored and finished adding the first homework
+  Quick links to the implemented homeworks:
+  * [Homework 1 - control a RGB LED with potentiometers](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-1)
+  * [Homework 2 - crosswalk](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-2)
+
+<br>
+<br>
+Last update: 30th Oct, 2022 - added the second homework
