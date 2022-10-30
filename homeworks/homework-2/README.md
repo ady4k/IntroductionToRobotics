@@ -26,7 +26,7 @@ There is no usage of the function "delay()" in the entire project, everything is
 
 The button will turn into an active state only when the circuit is on the initial idle state.
 
-## Showcase video: [Homework 2 - Crosswalk]([TBA](https://youtu.be/tjITBHbUue4))
+## Showcase video: [Homework 2 - Crosswalk](https://youtu.be/tjITBHbUue4)
 
 ## Picture of the setup: [Pictures Album](https://imgur.com/a/CEPxUwc)
 ![circuit setup](https://i.imgur.com/TfqcUkW.jpg)
