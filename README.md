@@ -17,7 +17,8 @@ Main weekly homeworks and future projects, each having their own sub-folder with
   Quick links to the implemented homeworks:
   * [Homework 1 - control a RGB LED with potentiometers](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-1)
   * [Homework 2 - crosswalk](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-2)
+  * [Homework 3 - drawing on a 7-segment display](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-3)
 
 <br>
 <br>
-Last update: 30th Oct, 2022 - added the second homework
+Last update: 7th Nov, 2022 - added the third homework
