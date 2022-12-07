@@ -19,7 +19,8 @@ Main weekly homeworks and future projects, each having their own sub-folder with
   * [Homework 2 - crosswalk](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-2)
   * [Homework 3 - drawing on a 7-segment display](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-3)
   * [Homework 4 - drawing on a 4 digit 7-segment display](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-4)
+  * [Homework 5 - LCD main menu and Matrix mini-game](https://github.com/ady4k/IntroductionToRobotics/tree/main/homeworks/homework-5)
 
 <br>
 <br>
-Last update: 16th Nov, 2022 - added the fourth homework
+Last update: 7th Dec, 2022 - added the fifth homework
