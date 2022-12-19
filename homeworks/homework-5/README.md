@@ -24,7 +24,7 @@ Will explain more once homework is fully finished.
 Only basic menu navigation functional at this moment.
 
 
-## Showcase video: TBA
+## Showcase video: [Homework 5 - LCD Main menu](https://youtu.be/StnJr3jXFPw)
 
 ## Picture of the setup: TBA
 
